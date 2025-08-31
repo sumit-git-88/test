@@ -1,3 +1,5 @@
+git check
+
 import talib as ta         # https://github.com/TA-Lib/ta-lib-python/blob/master/docs/doc_index.md
 import pandas_ta as pta
 #import vectorbt as vbt
